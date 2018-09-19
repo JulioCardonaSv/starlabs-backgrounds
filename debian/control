@@ -1,0 +1,10 @@
+Source: starlabs-backgrounds
+Section: admin
+Priority: optional
+Maintainer: Star Labs <admin@starlabs.systems>
+Build-Depends: debhelper (>= 8)
+Standards-Version: 4.1.1
+
+Package: starlabs-backgrounds
+Architecture: all
+Description: Desktop backgrounds from Star Labs
