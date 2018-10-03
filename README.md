@@ -1,4 +1,4 @@
-# Star Labs Grub ![alt text](https://cdn.shopify.com/s/files/1/2059/5897/files/Star_50x.png?v=1513954416 "Star Labs Systems")
+# Star Labs Backgrounds ![alt text](https://cdn.shopify.com/s/files/1/2059/5897/files/Star_50x.png?v=1513954416 "Star Labs Systems")
 Installs 12 Star Labs themed wallpapers with support for Gnome, Cinnamon, KDE, XFCE and Mate.
 
 ## How to install
