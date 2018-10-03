@@ -1,8 +1,8 @@
 Source: starlabs-backgrounds
 Section: admin
 Priority: optional
-Maintainer: Star Labs <admin@starlabs.systems>
-Build-Depends: debhelper (>= 8)
+Maintainer: Sean Rhodes <sean@starlabs.systems>
+Build-Depends: debhelper (>= 11)
 Standards-Version: 4.1.1
 
 Package: starlabs-backgrounds

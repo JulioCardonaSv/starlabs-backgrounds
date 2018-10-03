@@ -3,7 +3,7 @@
 <wallpapers>
 
 <wallpaper deleted="false">
-    <name>Prism</name>
+    <name>Star Labs Systems - Prism</name>
     <filename>/usr/share/backgrounds/starlabs/StarWallpaper1.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
@@ -13,7 +13,7 @@
 </wallpaper>
 
 <wallpaper deleted="false">
-    <name>Hex</name>
+    <name>Star Labs Systems - Hex</name>
     <filename>/usr/share/backgrounds/starlabs/StarWallpaper2.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
@@ -23,7 +23,7 @@
 </wallpaper>
 
 <wallpaper deleted="false">
-    <name>Light</name>
+    <name>Star Labs Systems - Light</name>
     <filename>/usr/share/backgrounds/starlabs/StarWallpaper3.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
@@ -33,7 +33,7 @@
 </wallpaper>
 
 <wallpaper deleted="false">
-    <name>Block</name>
+    <name>Star Labs Systems - Block</name>
     <filename>/usr/share/backgrounds/starlabs/StarWallpaper4.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
@@ -43,7 +43,7 @@
 </wallpaper>
 
 <wallpaper deleted="false">
-    <name>Water</name>
+    <name>Star Labs Systems - Water</name>
     <filename>/usr/share/backgrounds/starlabs/StarWallpaper5.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
@@ -53,7 +53,7 @@
 </wallpaper>
 
 <wallpaper deleted="false">
-    <name>Texture</name>
+    <name>Star Labs Systems - Texture</name>
     <filename>/usr/share/backgrounds/starlabs/StarWallpaper6.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
@@ -62,8 +62,8 @@
     <artist>NicholeRose</artist>
 </wallpaper>
 
- <wallpaper>
-     <name>Join the Fight</name>
+ <wallpaper deleted="false">
+     <name>Star Labs Systems - Join the Fight</name>
      <filename>/usr/share/backgrounds/starlabs/StarWallpaper7.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
@@ -71,7 +71,8 @@
      <shade_type>solid</shade_type>
      <artist>TheLegend</artist>
  </wallpaper>
- <wallpaper>
+
+ <wallpaper deleted="false">
      <name>Star Labs Systems - Horizon</name>
      <filename>/usr/share/backgrounds/starlabs/StarWallpaper8.jpg</filename>
      <options>zoom</options>
@@ -80,7 +81,8 @@
      <shade_type>solid</shade_type>
      <artist>TheLegend</artist>
  </wallpaper>
- <wallpaper>
+
+ <wallpaper deleted="false">
      <name>Star Labs Systems - Building Blocks</name>
      <filename>/usr/share/backgrounds/starlabs/StarWallpaper9.jpg</filename>
      <options>zoom</options>
@@ -89,7 +91,8 @@
      <shade_type>solid</shade_type>
      <artist>TheLegend</artist>
  </wallpaper>
- <wallpaper>
+
+ <wallpaper deleted="false">
      <name>Star Labs Systems - Be Free</name>
      <filename>/usr/share/backgrounds/starlabs/StarWallpaper10.jpg</filename>
      <options>zoom</options>
@@ -98,7 +101,8 @@
      <shade_type>solid</shade_type>
      <artist>TheLegend</artist>
  </wallpaper>
- <wallpaper>
+
+ <wallpaper deleted="false">
      <name>Star Labs Systems - The Arc</name>
      <filename>/usr/share/backgrounds/starlabs/StarWallpaper11.jpg</filename>
      <options>zoom</options>
@@ -108,7 +112,7 @@
      <artist>TheLegend</artist>
  </wallpaper>
  
- <wallpaper>
+ <wallpaper deleted="false">
      <name>Star Labs Systems - Interference</name>
      <filename>/usr/share/backgrounds/starlabs/StarWallpaper12.jpg</filename>
      <options>zoom</options>
@@ -117,8 +121,6 @@
      <shade_type>solid</shade_type>
      <artist>TheLegend</artist>
  </wallpaper>
-
-
 
 </wallpapers>
 

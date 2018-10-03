@@ -1,3 +1,15 @@
+starlabs-backgrounds (2.0.0) bionic; urgency=medium
+
+  * General updates
+
+ -- Sean Rhodes <sean@starlabs.systems>  Thu, 27 Sep 2018 09:21:29 +0100
+
+starlabs-backgrounds (1.0.7) bionic; urgency=medium
+
+  * Added support for Mate, XFCE, Plasma
+
+ -- Sean Rhodes <sean@starlabs.systems>  Wed, 26 Sep 2018 14:36:07 +0100
+
 starlabs-backgrounds (1.0.6) artful; urgency=medium
 
   * Added interferance
