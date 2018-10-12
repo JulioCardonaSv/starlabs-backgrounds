@@ -1,6 +1,6 @@
 
   name: starlabs-backgrounds
-  version: '2.0.0'
+  version: '2.0.1'
   summary: Backgrounds from Star Labs.
   description: |
     Supports Gnome, Cinnamon, Mate, XFCE and KDE.
